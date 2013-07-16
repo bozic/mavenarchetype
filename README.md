@@ -1,0 +1,4 @@
+mavenarchetype
+==============
+
+Simple Archetype
